@@ -1,4 +1,4 @@
-We started with the basics: cutting a 40 by 440 cm wooden board that would serve as the robot’s base. After that, we drilled holes to attach the front wheel, followed by more drilling to mount the motors and rear wheels. The wheels initially had torn rubber, so we replaced them to make sure the robot could move smoothly. Once everything was in place, we added holes for the battery and Arduino, securing them firmly to the board.
+We started with the basics: cutting a 40 by 40 cm wooden board that would serve as the robot’s base. After that, we drilled holes to attach the front wheel, followed by more drilling to mount the motors and rear wheels. The wheels initially had torn rubber, so we replaced them to make sure the robot could move smoothly. Once everything was in place, we added holes for the battery and Arduino, securing them firmly to the board.
 
 With the hardware set up, it was time to bring the robot to life through code. We began by programming it to move back and forth to test the motors. Once that worked, we connected a radio signal receiver and used a controller to send input commands to the Arduino, allowing us to control the robot’s movement remotely.
 
@@ -18,6 +18,10 @@ I fixed this by adding a linear interpolation step that eases the current speed 
 
 
 For turning, I slow down—or even stop—one wheel while keeping the other moving. Small speed differences give gentle curves, and stopping one side produces a tighter pivot. Combined with the smoothing above, turns now feel deliberate rather than abrupt.
+
+we also made the shoulders by screwing a wooden piece and attaching giant servos to act as joints for the shoulders, that is done, it was snooth and easy.
+
+We also added 1 elbow for an arm, and now we have a shoulder and elbow that move in a natural way
 
 
 Next steps: attach a gripper
