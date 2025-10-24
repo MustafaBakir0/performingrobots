@@ -31,3 +31,9 @@ the idea of how we should implement the grabber mechanism is i think by attachin
 maybe then attach another servo with strings to make it control the gripper?
 
 We also have the idea to have the head as a cylinder and it would have 2 pieces. The outer peice is like a cover with an opening in the front. the inner piece is a clinder with multiple expressions that rotates based on the emtoions the robot is feeling
+
+### 24/10
+
+ had to increase the size of the base. that is a whole hour of unscrewing, screwing, drilling, and cutting wood. this happened because the two servo motors and the shoulder and elbow add so much weight on one of the sides, so now when the robot moves, it tilts and loses balance. we made the base bigger but we didn't incrase its size from the back, so now the robot tilts backwards. I guess a more thorough look about the physics of it could have saved us some time because now we have to add another wheel from the back to balance the robot. This is the kind of mistakes that you only do once because it draws your attention to similar problems next time. overall, progress is awesome.
+
+Next steps, we want to add the rotating head with expressions, i dont think we need a alazy suzan but professor said we might need a giant servo.  I really hope the powerbank we have will be able to power all of those servos we have, we currently have 4 big ones!!
