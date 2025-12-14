@@ -32,7 +32,7 @@ maybe then attach another servo with strings to make it control the gripper?
 
 We also have the idea to have the head as a cylinder and it would have 2 pieces. The outer peice is like a cover with an opening in the front. the inner piece is a clinder with multiple expressions that rotates based on the emtoions the robot is feeling
 
-### 24/10
+
 
  had to increase the size of the base. that is a whole hour of unscrewing, screwing, drilling, and cutting wood. this happened because the two servo motors and the shoulder and elbow add so much weight on one of the sides, so now when the robot moves, it tilts and loses balance. we made the base bigger but we didn't incrase its size from the back, so now the robot tilts backwards. I guess a more thorough look about the physics of it could have saved us some time because now we have to add another wheel from the back to balance the robot. This is the kind of mistakes that you only do once because it draws your attention to similar problems next time. overall, progress is awesome.
 
@@ -111,4 +111,31 @@ The system can handle radio commands arriving wirelessly and serial commands typ
 
 The main loop continuously updates the rainbow gradient background animation, checks for serial input, and listens for radio messages, then routes any received command number to processCommand().
 
-The entire system creates a robot that feels alive and responsive, capable of expressing different moods through the coordination of movement, light, and sound.Claude is AI and can make mistakes. Please double-check responses.
+The entire system creates a robot that feels alive and responsive, capable of expressing different moods through the coordination of movement, light, and sound
+
+## Documentation Pictures
+
+<img width="2358" height="3144" alt="IMG_8421" src="https://github.com/user-attachments/assets/1ff05706-7f0c-4199-96c5-ba79c8107d6f" />
+<img width="2463" height="3284" alt="IMG_8420" src="https://github.com/user-attachments/assets/9d58fc99-f8ad-484e-baf4-a4e56d535387" />
+<img width="2244" height="2993" alt="IMG_8419" src="https://github.com/user-attachments/assets/2ed7d06e-fe85-4ce1-aa24-681f3e366607" />
+<img width="2142" height="2856" alt="IMG_8155" src="https://github.com/user-attachments/assets/02fdc147-535e-4762-adb0-b06a9f9271cd" />
+<img width="2288" height="3051" alt="IMG_7967" src="https://github.com/user-attachments/assets/38f5846b-73d9-4b7a-a9ba-d845c18597b6" />
+<img width="2527" height="3369" alt="IMG_7964" src="https://github.com/user-attachments/assets/9a6d61c3-1a89-4f73-b126-020e4f33a371" />
+<img width="2213" height="2951" alt="IMG_7962" src="https://github.com/user-attachments/assets/7a0b2dde-3752-4f9a-a670-dba096054e1f" />
+<img width="2311" height="3081" alt="IMG_7936" src="https://github.com/user-attachments/assets/203d8acc-1df6-4877-b3f2-54110e3a276b" />
+<img width="2180" height="2906" alt="IMG_7935" src="https://github.com/user-attachments/assets/4ae4d347-7470-48f9-9932-ea48fc8c22a4" />
+<img width="1179" height="2556" alt="IMG_6808" src="https://github.com/user-attachments/assets/769978f4-98e6-4444-ae14-560fe9cea90d" />
+<img width="1179" height="2556" alt="IMG_6807" src="https://github.com/user-attachments/assets/9f7f02d0-cddb-468c-bf21-05b5752d40d1" />
+<img width="2158" height="2877" alt="IMG_6738" src="https://github.com/user-attachments/assets/2a07c715-ddc1-4aa2-aaa9-90806610c243" />
+<img width="2201" height="2935" alt="IMG_6734" src="https://github.com/user-attachments/assets/6ae6ac70-0c5e-4a8f-b433-0efec482d65c" />
+<img width="2189" height="2919" alt="IMG_6699" src="https://github.com/user-attachments/assets/ce99984d-1ad8-4021-94e2-5fffa91c6e17" />
+<img width="2142" height="2856" alt="IMG_6698" src="https://github.com/user-attachments/assets/47d5cc98-39fc-4371-a3f4-c781a11c460e" />
+<img width="1860" height="3307" alt="5793DFDA-B133-403D-A4EC-15E6558E6227" src="https://github.com/user-attachments/assets/740488f5-fb50-45ae-9b78-eb09eee4f92d" />
+<img width="1561" height="2776" alt="259E21DD-E339-449F-A10D-62BD15EC8362" src="https://github.com/user-attachments/assets/3d53cb2c-f184-4587-9a98-b51510d5383e" />
+<img width="2160" height="3840" alt="1" src="https://github.com/user-attachments/assets/bac904cb-d2f3-4594-8223-ae21884daaab" />
+<img width="2214" height="2952" alt="IMG_8422" src="https://github.com/user-attachments/assets/a2c0d6ff-6483-4e8f-96e2-8c9d46d20b82" />
+
+
+https://github.com/user-attachments/assets/1820fe1f-c335-4dd6-a53a-b2ef0516b9f9
+
+
